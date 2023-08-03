@@ -1,0 +1,22 @@
+D:\Escritorio\preguntas de cultura en vb\preguntas de cultura\preguntas de cultura\obj\Debug\preguntas de cultura.vbproj.AssemblyReference.cache
+D:\Escritorio\preguntas de cultura en vb\preguntas de cultura\preguntas de cultura\obj\Debug\preguntas de cultura.vbproj.SuggestedBindingRedirects.cache
+D:\Escritorio\preguntas de cultura en vb\preguntas de cultura\preguntas de cultura\obj\Debug\preguntas_de_cultura.Resources.resources
+D:\Escritorio\preguntas de cultura en vb\preguntas de cultura\preguntas de cultura\obj\Debug\preguntas_de_cultura.pregunta1.resources
+D:\Escritorio\preguntas de cultura en vb\preguntas de cultura\preguntas de cultura\obj\Debug\preguntas_de_cultura.pregunta10.resources
+D:\Escritorio\preguntas de cultura en vb\preguntas de cultura\preguntas de cultura\obj\Debug\preguntas de cultura.vbproj.GenerateResource.cache
+D:\Escritorio\preguntas de cultura en vb\preguntas de cultura\preguntas de cultura\obj\Debug\preguntas de cultura.vbproj.CoreCompileInputs.cache
+D:\Escritorio\preguntas de cultura en vb\preguntas de cultura\preguntas de cultura\bin\Debug\preguntas de cultura.exe.config
+D:\Escritorio\preguntas de cultura en vb\preguntas de cultura\preguntas de cultura\bin\Debug\preguntas de cultura.exe
+D:\Escritorio\preguntas de cultura en vb\preguntas de cultura\preguntas de cultura\bin\Debug\preguntas de cultura.pdb
+D:\Escritorio\preguntas de cultura en vb\preguntas de cultura\preguntas de cultura\bin\Debug\preguntas de cultura.xml
+D:\Escritorio\preguntas de cultura en vb\preguntas de cultura\preguntas de cultura\obj\Debug\preguntas_de_cultura.pregunta2.resources
+D:\Escritorio\preguntas de cultura en vb\preguntas de cultura\preguntas de cultura\obj\Debug\preguntas_de_cultura.pregunta3.resources
+D:\Escritorio\preguntas de cultura en vb\preguntas de cultura\preguntas de cultura\obj\Debug\preguntas_de_cultura.pregunta4.resources
+D:\Escritorio\preguntas de cultura en vb\preguntas de cultura\preguntas de cultura\obj\Debug\preguntas_de_cultura.pregunta5.resources
+D:\Escritorio\preguntas de cultura en vb\preguntas de cultura\preguntas de cultura\obj\Debug\preguntas_de_cultura.pregunta6.resources
+D:\Escritorio\preguntas de cultura en vb\preguntas de cultura\preguntas de cultura\obj\Debug\preguntas_de_cultura.pregunta7.resources
+D:\Escritorio\preguntas de cultura en vb\preguntas de cultura\preguntas de cultura\obj\Debug\preguntas_de_cultura.pregunta8.resources
+D:\Escritorio\preguntas de cultura en vb\preguntas de cultura\preguntas de cultura\obj\Debug\preguntas_de_cultura.pregunta9.resources
+D:\Escritorio\preguntas de cultura en vb\preguntas de cultura\preguntas de cultura\obj\Debug\preguntas de cultura.exe
+D:\Escritorio\preguntas de cultura en vb\preguntas de cultura\preguntas de cultura\obj\Debug\preguntas de cultura.xml
+D:\Escritorio\preguntas de cultura en vb\preguntas de cultura\preguntas de cultura\obj\Debug\preguntas de cultura.pdb
